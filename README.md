@@ -7,7 +7,12 @@ A modern, fully responsive landing page for a virtual reality development studio
 ## 📸 Preview
 <img width="2948" height="1511" alt="image" src="https://github.com/user-attachments/assets/2f6d93bf-4ef8-463a-a548-ae91e74aee9b" />
 
+---
 
+## 🌐 Live Demo & Repository
+
+- 🚀 **Live Demo:** https://loopstudios-tailwind-page.netlify.app/
+- 📂 **GitHub Repository:** https://github.com/Rizwan-46/loopstudios-tailwind-css.git
 ---
 
 ## ✨ Features
